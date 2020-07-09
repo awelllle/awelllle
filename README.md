@@ -1,5 +1,5 @@
-### Hey 👋
-Awelle here! 
+### 👋 Hey! Awelle here
+
 <p>
   <a href="https://uncomplex.io">Personal Blog</a> •
   <a href="https://twitter.com/awelllle">Twitter</a>
