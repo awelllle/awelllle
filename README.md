@@ -1,5 +1,5 @@
-### Hi there 👋
-Im Awelle Osuka
+### Hey 👋
+I'm Awelle Osuka
 <!--
 **awelllle/awelllle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
