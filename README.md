@@ -7,7 +7,9 @@
 
 ---
 
-I'm a software engineer engineer that likes to solve problems. I'm passionate about breaking down complex terms so that it becomes easily understood.
+⚡ I'm a software engineer engineer that likes to solve problems. I'm passionate about breaking down complex terms so that it becomes easily understood. This is why I started my personal [blog](https://uncomplex.io).
+
+When I'm not coding, I'm connecting with friends and exploring my fascinations.
 
 
 
