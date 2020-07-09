@@ -13,8 +13,8 @@ When I'm not coding, I'm connecting with friends and exploring my fascinations.
 
 
 
- - 💬 Ask me about: NodeJS, Microservices, RabbitMQ
- - 📫 How to reach me:  [@awelllle_](https://twitter.com/awelllle)
+ - 💬  Ask me about: NodeJS, Microservices, RabbitMQ
+ - 📫  How to reach me:  [@Awelllle](https://twitter.com/awelllle) (It's 4 'l's)😄
  
  
  
