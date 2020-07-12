@@ -7,9 +7,9 @@
 
 ---
 
-⚡ I'm a software engineer that likes to solve problems. I'm a big fan of breaking down complex tech terms so that it becomes easily understood. This is why I started my personal [blog](https://uncomplex.io).
+⚡ I'm a software engineer that likes to solve problems. I'm a big fan of breaking down complex tech terms so that it becomes easily understood. This is why I started my personal [blog](https://uncomplex.io). I'm all about postively impacting people around
 
-When I'm not writing codes, I'm connecting with friends and exploring my fascinations.
+When I'm not coding, I'm connecting with friends and exploring my fascinations.
 
 
 
