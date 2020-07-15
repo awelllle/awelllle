@@ -1,4 +1,4 @@
-### 👋 Hey! Awelle here
+### Hello 👋  Awelle here
 
 <p>
   <a href="https://uncomplex.io">Personal Blog</a> •
