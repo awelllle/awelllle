@@ -13,7 +13,7 @@ When I'm not coding, I'm strengthening existing connections with friends, forgin
 
 
 
- - 💬  Ask me about: NodeJS, Microservices, RabbitMQ, WebSockets, APIs
+ - 💬  Ask me about: NodeJS, Microservices, RabbitMQ, WebSockets, APIs, Heroku
  - 📫  How to reach me:  [@Awelllle](https://twitter.com/awelllle) (It's 4 'l's)😄
  
  
