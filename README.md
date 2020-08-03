@@ -13,7 +13,7 @@ When I'm not coding, I'm strengthening existing connections with friends, forgin
 
 
 
- - 💬  Ask me about: Node, Microservices, RabbitMQ, WebSockets, APIs, Heroku, Docker
+ - 💬  Ask me about: Node, Microservices, RabbitMQ, WebSockets, APIs, Heroku, Docker, SCRUM
  - 📫  How to reach me: Twitter: [@Awelllle](https://twitter.com/awelllle) (It's 4 'l's)😄
  - 🔭 I’m currently working on a platform that connects Bootcamp grads to companies that are hiring
  
