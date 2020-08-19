@@ -1,5 +1,5 @@
 ### 👋 Hi,  I'm Awelle😃
-🎧 &nbsp; Currently listening to Burna's new Album and debugging💻
+🎧 &nbsp; Currently listening to Burna's new Album and debugging&nbsp;💻
 
 <p>
   <a href="https://uncomplex.io">Personal Blog</a> •
