@@ -13,7 +13,7 @@ When I'm not writing code, I'm strengthening existing connections with friends, 
 
 
 
- - 💬  Ask me about: NodeJS, Microservices Architecture, RabbitMQ, WebSockets, DigitalOcean, Heroku, Docker
+ - 💬  Ask me about: Node, Microservices Architecture, RabbitMQ, WebSockets, DigitalOcean, Heroku, Docker
  - 📫  How to reach me: Twitter: [@Awelllle](https://twitter.com/awelllle)
  - 🔭 I’m currently working on a platform that connects bootcamp graduates and showcases their unique selling points to companies that are hiring.
  
