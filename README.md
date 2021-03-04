@@ -14,7 +14,7 @@ When I'm not writing code, I'm strengthening existing connections with friends, 
 
 
  - 💬  Ask me about: Node, Microservices, RabbitMQ, WebSockets, DigitalOcean, Heroku, Docker, TypeScript
- - 📫  How to reach me: Twitter: [@Awelllle](https://twitter.com/awelllle)
+ - 📫  How to reach me: Twitter [@Awelllle](https://twitter.com/awelllle)
  
  
  
